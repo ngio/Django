@@ -12,20 +12,25 @@ Django는 Python 프로그래밍 언어를 사용하여 견고하고 확장 가�
 - 확장성 : Django의 모듈식 아키텍처는 개발자들이 서드파티 패키지와 플러그인을 쉽게 추가하거나 재사용 가능한 앱을 생성하여 여러 프로젝트에서 공유할 수 있도록 합니다.
 
 
+| 책 | 링크 |
+|---|:---:|
+|소설처럼 읽는 장고 웹 프레임워크|https://wikidocs.net/book/16995|
+|점프 투 장고|https://wikidocs.net/book/4223|
+|Django Rest Framework, React, Next.js 웹 개발의 진수|https://wikidocs.net/book/9596|
+
 
 # 소설처럼 읽는 장고 웹 프레임워크
 
-https://wikidocs.net/book/16995
+> https://wikidocs.net/book/16995
 
 
 # 점프 투 장고
 
-https://wikidocs.net/book/4223
-
+> https://wikidocs.net/book/4223
 
 # 효율과 성능의 삼위일체: Django Rest Framework, React, Next.js 웹 개발의 진수
 
-https://wikidocs.net/book/9596
+> https://wikidocs.net/book/9596
 
 
 
